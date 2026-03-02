@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/alexandru-caracaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandru-caracaş" height="30" width="40" /></a>
 <a href="https://instagram.com/wolfram_ripper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wolfram_ripper" height="30" width="40" /></a>
-<a href="https://www.t.me/qwer1pper#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="qwer1pper" height="30" width="40" /></a>
+<a href="https://www.t.me/qwer1pper#" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="qwer1pper" height="30" width="40" /></a>
 </p>
 </p>
 
